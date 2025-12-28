@@ -94,7 +94,7 @@ const Navbar = () => {
                 Projects
               </a>
               <a
-                href="/resume/Abhishek Warke's Resume (Final).pdf"
+                href="/resume/Abhishek_Warke_Resume.pdf"
                 target="_blank"
                 rel="noreferrer"
                 onClick={() => setOpen(false)}
